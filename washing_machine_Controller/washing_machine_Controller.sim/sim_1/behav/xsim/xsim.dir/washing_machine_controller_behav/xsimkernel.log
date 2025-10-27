@@ -1,0 +1,4 @@
+Running: xsim.dir/washing_machine_controller_behav/xsimk.exe -simmode gui -wdb washing_machine_controller_behav.wdb -simrunnum 0 -socket 58728
+Design successfully loaded
+Design Loading Memory Usage: 10728 KB (Peak: 10728 KB)
+Design Loading CPU Usage: 15 ms
